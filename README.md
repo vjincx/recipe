@@ -11,3 +11,6 @@ last line changed locally
 
 # Toast Potato
 ### Toast seasoned potato
+
+1. Sweet Potatos
+2. Season Salts
