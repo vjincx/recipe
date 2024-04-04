@@ -8,3 +8,6 @@ ingredients.md
 <<<<<<< HEAD
 last line changed locally
 ### This is a REMOTE change :O
+
+# Toast Potato
+### Toast seasoned potato
