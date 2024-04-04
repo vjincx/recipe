@@ -14,3 +14,5 @@ last line changed locally
 
 1. Sweet Potatos
 2. Season Salts
+
+**Slice the Potatos**, and _mix with some Season Salts_.
