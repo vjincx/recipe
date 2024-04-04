@@ -16,3 +16,5 @@ last line changed locally
 2. Season Salts
 
 **Slice the Potatos**, and _mix with some Season Salts_.
+
+![Repcipe Picture](recipe.jpg)
